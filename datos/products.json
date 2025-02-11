@@ -1,0 +1,20 @@
+[
+  {
+    "id": "44e05db9-c70f-4a4e-a78e-c3771ad33f15",
+    "title": "cafe con cacao limpio",
+    "description": "el mejor cafe del mundo y el infinito",
+    "code": "abc1p3",
+    "price": 1200,
+    "stock": 21,
+    "category": "comestibles"
+  },
+  {
+    "id": "5e6fc82b-e7dc-4d93-8424-e3982048a7f4",
+    "title": "azucar morena ",
+    "description": "te endulza la vida",
+    "code": "abcp93",
+    "price": 1200,
+    "stock": 21,
+    "category": "comestibles"
+  }
+]
