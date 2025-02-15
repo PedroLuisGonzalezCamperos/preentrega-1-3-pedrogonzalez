@@ -1,0 +1,15 @@
+<h1>Los productos contenidos son los siguientes</h1><br><br>
+
+<ul>
+  {{#each productos}}
+    <li>
+      <strong>Nombre:</strong> {{this.title}} <br>
+      <strong>Descripción:</strong> {{this.description}} <br>
+      <strong>Código:</strong> {{this.code}} <br>
+      <strong>Precio:</strong> ${{this.price}} <br>
+      <strong>Stock:</strong> {{this.stock}} unidades <br>
+      <strong>Categoría:</strong> {{this.category}} <br>
+      <hr>
+    </li>
+  {{/each}}
+</ul>
